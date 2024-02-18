@@ -16,16 +16,21 @@ As a recent graduate, I am excited about the opportunity to contribute to innova
 🔧 Projects
 
 1. <a href="https://jaspherbagor.github.io/Kinabuhing-Turnero/index.html" target="_blank">Kinabuhing Turnero</a>
+
 Tools Used: HTML, CSS, Bootstrap, ScrollRevealJS, FormSubmit
 
 Developed a multi-page website for a cutting-edge machine shop, featuring precision metal products and innovative services.
 
 2. <a href="https://spark-source-central.vercel.app/" target="_blank">SparkSource Central</a>
+
 Tools Used: HTML, CSS, Bootstrap, JavaScript, React, MySQL, NodeJS
+
 Implemented full-stack code for an API-driven e-commerce site selling electrical tools, materials, and equipment.
 
 3. <a href="https://splenr.tech/" target="_blank">Splenr</a>
+
 Tools Used: HTML, CSS, JavaScript, Blade, Bootstrap, PHP, Laravel, MySQL
+
 Developed both client-side and server-side code for a full-stack web app catering to an electrician job platform. Job seekers can apply and get hired, while employers can post jobs, subscribe, and manage applicants. Awarded Best Capstone.
 
 📫 Let's Connect
