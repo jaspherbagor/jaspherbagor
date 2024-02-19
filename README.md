@@ -11,6 +11,7 @@ I am a passionate and dynamic Full-Stack Web Developer, fresh out of the KodeGo 
 - Frameworks: Laravel
 
 🌱 Eager to Learn and Grow
+
 As a recent graduate, I am excited about the opportunity to contribute to innovative projects and expand my skills in a professional setting. My journey is just beginning, and every line of code I write is a step forward in my continuous learning process.
 
 🔧 Projects
